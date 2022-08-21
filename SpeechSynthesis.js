@@ -1,3 +1,6 @@
+// Code sample taken from https://docs.microsoft.com/en-in/azure/cognitive-services/speech-service/get-started-text-to-speech?tabs=terminal&pivots=programming-language-javascript
+// Options of all Speech Voices in the Voice Gallery https://speech.microsoft.com/portal
+
 (function() {
 
     "use strict";
